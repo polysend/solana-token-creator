@@ -24,11 +24,11 @@ A robust CLI tool to create custom tokens on the Solana blockchain with a single
 
 ```bash
 # Using git
-git clone https://github.com/yourusername/solana-token-creator.git
+git clone https://github.com/polysend/solana-token-creator.git
 cd solana-token-creator
 
 # Or just download the script
-curl -O https://raw.githubusercontent.com/yourusername/solana-token-creator/main/solana-token-creator.js
+curl -O https://raw.githubusercontent.com/polysend/solana-token-creator/main/solana-token-creator.js
 ```
 
 2. Install dependencies:
